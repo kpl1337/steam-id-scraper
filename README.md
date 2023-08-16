@@ -6,6 +6,6 @@
 - Installing all modules using `pip install -r requirements.txt`
 - Running main.py
 
-
-
+#### Discord webhoks
+- to use discord webhooks go to `config.json` and change `"useWebhook" : false` to `"useWebhook" : true` and paste you discord webhook link to `webhookURL" : ""` <--
 
