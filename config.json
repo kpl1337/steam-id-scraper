@@ -1,4 +1,6 @@
 {
     "useWebhook" : false,
-    "webhookURL" : ""
+    "webhookURL" : "",
+    "output": "log.txt",
+    "logo": true
 }
